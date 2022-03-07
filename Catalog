@@ -1,1 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<CATALOG>
+
+<BOOKS>
+
+<BOOK>
+<TITLE> Körlük </TITLE>
+<AUTHOR> Jose Saramago </AUTHOR>
+<PUBLISHER> Kırmızı Kedi </PUBLISHER> 
+<ISBN> 9786052980811 </ISBN>
+<PRICE> 34.80 </PRICE>
+</BOOK>
+
+
+<BOOK>
+<TITLE> Puslu Kıtalar Atlası </TITLE>
+<AUTHOR> İhsan Oktay Anar </AUTHOR>
+<PUBLISHER> İletişim Yayıncılık </PUBLISHER> 
+<ISBN> 9789754704723 </ISBN>
+<PRICE> 32.20 </PRICE>
+</BOOK>
+
+
+<BOOK>
+<TITLE> Gece Yarısı Kütüphanesi </TITLE>
+<AUTHOR> Matt Haig </AUTHOR>
+<PUBLISHER> Domingo Yayınevi </PUBLISHER> 
+<ISBN>  9786051981833 </ISBN>
+<PRICE> 40.60 </PRICE>
+</BOOK>
+
+
+<BOOK>
+<TITLE> Kayıp Tanrılar Ülkesi </TITLE>
+<AUTHOR> Ahmet Ümit </AUTHOR>
+<PUBLISHER> Yapı Kredi Yayınları </PUBLISHER> 
+<ISBN> 9789750850417</ISBN>
+<PRICE> 27.30 </PRICE>
+</BOOK>
+
+
+<BOOK>
+<TITLE> Fareler ve İnsanlar </TITLE>
+<AUTHOR> John Steinbeck </AUTHOR>
+<PUBLISHER> Sel Yayıncılık </PUBLISHER> 
+<ISBN> 9789755705859 </ISBN>
+<PRICE> 19.05 </PRICE>
+</BOOK>
+
+
+<BOOK>
+<TITLE> Miras </TITLE>
+<AUTHOR> Vigdis Hjorth </AUTHOR>
+<PUBLISHER> Siren Yayınları </PUBLISHER> 
+<ISBN> 9786055903886 </ISBN>
+<PRICE> 34.85 </PRICE>
+</BOOK>
+
+
+<BOOK>
+<TITLE> Bülbülü Öldürmek </TITLE>
+<AUTHOR> Harper Lee </AUTHOR>
+<PUBLISHER> Epsilon Yayınevi </PUBLISHER> 
+<ISBN> 9786051736938 </ISBN>
+<PRICE> 44.50 </PRICE>
+</BOOK>
+
+
+<BOOK>
+<TITLE> İnsan Geleceğini Nasıl Kurar? </TITLE>
+<AUTHOR> İlber Ortaylı </AUTHOR>
+<PUBLISHER> Kronik Kitap </PUBLISHER> 
+<ISBN> 9786258431254 </ISBN>
+<PRICE> 32.50 </PRICE>
+</BOOK>
+
+
+<BOOK>
+<TITLE> Balıkçı ve Oğlu </TITLE>
+<AUTHOR> Zülfü Livaneli </AUTHOR>
+<PUBLISHER> İnkılap Kitabevi </PUBLISHER> 
+<ISBN> 9789751042125 </ISBN>
+<PRICE> 25.20 </PRICE>
+</BOOK>
+
+
+
+<BOOK>
+<TITLE> Yaşamak Sakinlik İster </TITLE>
+<AUTHOR> Özgür Bacaksız </AUTHOR>
+<PUBLISHER> Destek Yayınları </PUBLISHER> 
+<ISBN> 9786254412981 </ISBN>
+<PRICE> 27.30 </PRICE>
+</BOOK>
+
+</BOOKS
+
+
+</CATALOG>
